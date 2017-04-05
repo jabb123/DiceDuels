@@ -1,0 +1,1 @@
+My four changes to DiceDuels will make the game best of five instead of three, instead of using six side dices they will use ten side dices, the players will be able to enter a name, and an option to play again will be added 
