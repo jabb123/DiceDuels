@@ -15,10 +15,10 @@ while(ctr!=10):
 		roll2= randrange(1,11)
 		print(player2 + " rolled a " + str(roll2))
 		print("")
-		if (roll1>roll2):
+		if (roll1<roll2):
 			player1w +=1
 			print(player1 + " wins the round!\n")
-		elif(roll1<roll2):
+		elif(roll1>roll2):
 			player2w +=1
 			print(player2 + " wins the round!\n")
 	if player1w ==3:
